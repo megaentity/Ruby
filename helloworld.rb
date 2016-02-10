@@ -9,4 +9,6 @@ last_name = gets.chomp
 full_name = puts "your full name is #{first_name} #{last_name}"
 
 
+puts "bye"
+
 
